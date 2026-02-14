@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `docker build -t nextjs-docker-app . `
+
+### `docker run -p 3000:3000 nextjs-docker-app `
+
 ### `npm start`
 
 Runs the app in the development mode.\
